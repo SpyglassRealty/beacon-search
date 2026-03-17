@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the Beacon Agent Search application - a Next.js project that provides real estate agent search functionality using the Repliers API.
 
 ## Getting Started
 
